@@ -1,16 +1,6 @@
 /**
- * Brady Manske
- * 3/10/23
- * CS&145
- * 20 Questions (1 of 4)
- *
  * This defines a node for a binary search tree
  * that can be used in a game of 20 questions
- *
- * EXTRA CREDIT (?):
- *     Fields are encapsulated! Instead of leaving
- *     fields public, I instead provided
- *     public get and set methods for each field.
  */
 
 public class QuestionNode {
