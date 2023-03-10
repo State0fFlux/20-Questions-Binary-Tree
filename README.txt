@@ -11,7 +11,7 @@ QuestionTree.java (Supporting)
   This file provides code to create a binary tree resembling the questions & answers for a game of 20 questions.
   
 QuestionNode.java (Supporting)
-  This file provides code to create individual nodes within the binary tree represented by QuestionTree.
+  This file provides code to create individual question/answer nodes within the binary tree represented by QuestionTree.
   
 UserInterface.java (Supporting)
   This file provides framework for the above QuestionMain file.
