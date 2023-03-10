@@ -1,5 +1,6 @@
 /*
- * A console-based UserInterface set-up for a game of 20 Questions.
+ * A console-based UserInterface set up to interact with the user,
+ * playing multiple games of 20 Questions.
  * @author University of Washington
  * @edited Brady Manske
  * @version 2023/03/10
