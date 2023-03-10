@@ -2,7 +2,6 @@
  * This defines a node for a binary search tree
  * that can be used in a game of 20 questions
  */
-
 public class QuestionNode {
     // declaring fields
     private String data;
