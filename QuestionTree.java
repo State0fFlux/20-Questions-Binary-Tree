@@ -1,19 +1,7 @@
 /**
- * Brady Manske
- * 3/10/23
- * CS&145
- * 20 Questions (2 of 4)
- *
  * This defines a binary search tree that can be used
  * for a game of 20 questions, providing methods for updating,
  * and saving new binary trees, as well as uploading existing binary trees.
- *
- * NOTE:
- *     I've attached my own version of QuestionMain to my submission.
- *     Though I've ensured that this program can run with the default
- *     QuestionMain.java, my rendition provides a more appropriate 
- *     approach to user interactions. See the changelog on Question.Main
- *     for more details.
  */
 
 import java.util.*; // for Scanner
