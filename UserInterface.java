@@ -1,8 +1,4 @@
-/* Brady Manske
- * 3/10/23
- * CS&145
- * 20 Questions (3 of 4)
- *
+/* 
  * Interface describing abstract user interaction operations.
  * This interface is implemented by the graphical and text UIs for the game.
  * Your QuestionTree interacts with the UI through this interface.
