@@ -50,8 +50,6 @@ public class QuestionMain implements UserInterface {
     }
 
     /**
-     * Pre: None
-     * Post:
      * - Continues prompting the user for input until they respond
      *   with ["y"]es or ["n"]o  (can also be yeah or nah, so long as
      *   it starts with "y"/"n")
