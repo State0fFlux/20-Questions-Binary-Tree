@@ -18,7 +18,7 @@ public class QuestionNode {
      * - Throws IllegalArgumentException if given String is null
      */
     public QuestionNode(String data) {
-        if (String == null) {
+        if (data == null) {
             throw new IllegalArgumentException();
         } // end of if
         this.data = data;
@@ -32,8 +32,8 @@ public class QuestionNode {
      * and references to a left and right subroot or leaf
      * - Throws IllegalArgumentException if any parameter is null
      */
-    public QuestionNode(String data, QuestionNode yes, QuestionNode no) {
-        if (String == null || yes == null || no == null) {
+    public QuestionNode(String data, QuestionNode left, QuestionNode right) {
+        if (data == null || left == null || right == null) {
             throw new IllegalArgumentException();
         } // end of if
         this.data = data;
