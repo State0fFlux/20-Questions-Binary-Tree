@@ -50,8 +50,7 @@ public class QuestionTree {
             } else { // computer lost the game
                 // intitializing variables
                 QuestionNode desiredLeaf = null;
-                QuestionNode otherLeaf = new QuestionNode(current.getData(),
-                    current.getLeftNode(), current.getRightNode());
+                QuestionNode otherLeaf = new QuestionNode(current.getData());
                 
                 ui.print("I lose. What is your object? ");
                 desiredLeaf = new QuestionNode(ui.nextLine());
