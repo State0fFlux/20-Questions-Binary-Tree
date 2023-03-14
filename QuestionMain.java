@@ -3,7 +3,7 @@
  * playing multiple games of 20 Questions.
  * @author University of Washington
  * @edited Brady Manske
- * @version 2023/03/10
+ * @version 2023/03/14
  */
 import java.io.*;
 import java.util.Scanner;
