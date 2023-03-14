@@ -42,8 +42,6 @@ public class QuestionNode {
     } // end of constructor
     
     /**
-     * Pre: None
-     * Post:
      * - Returns the QuestionNode's data
      */
     public String getData() {
@@ -51,8 +49,6 @@ public class QuestionNode {
     } // end of getData method
     
     /**
-     * Pre: None
-     * Post:
      * - Returns the QuestionNode's left child subroot or leaf
      */
     public QuestionNode getLeftNode() {
@@ -60,8 +56,6 @@ public class QuestionNode {
     } // end of getLeftNode method
     
     /**
-     * Pre: None
-     * Post:
      * - Returns the QuestionNode's right child subroot or leaf
      */
     public QuestionNode getRightNode() {
