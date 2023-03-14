@@ -2,7 +2,7 @@
  * This defines a node for a binary search tree
  * that can be used in a game of 20 questions.
  * @author Brady Manske
- * @version 2023/03/10
+ * @version 2023/03/14
  */
 public class QuestionNode {
     // declaring fields
