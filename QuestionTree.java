@@ -35,8 +35,6 @@ public class QuestionTree {
     } // end of constructor
     
     /*
-     * Pre: None
-     * Post:
      * - Plays a single game of 20 questions
      */
     public void play() {
@@ -194,8 +192,6 @@ public class QuestionTree {
     } // end of private load method
 
     /*
-     * Pre: None
-     * Post:
      * - Returns the number of total games played by the user
      */
     public int totalGames() {
@@ -203,8 +199,6 @@ public class QuestionTree {
     } // end of totalGames method
     
     /*
-     * Pre: None
-     * Post:
      * - Returns the number of total games won by the computer
      */
     public int gamesWon() {
